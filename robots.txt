@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rlaehddnr890425-star.github.io/1p/sitemap.xml
+Sitemap: https://jaegeum.hub77a.com/sitemap.xml
 
 # IndexNow key (see /00000000000000000000000000000000.txt)
 IndexNow: 00000000000000000000000000000000

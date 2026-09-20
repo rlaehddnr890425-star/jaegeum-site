@@ -1,4 +1,4 @@
-자금레이더 — 실제 게시본 전문 (로컬: posts/policy-fund-map.html / 라이브 반영 시: https://rlaehddnr890425-star.github.io/1p/posts/policy-fund-map.html)
+자금레이더 — 실제 게시본 전문 (로컬: posts/policy-fund-map.html / 라이브 반영 시: https://jaegeum.hub77a.com/posts/policy-fund-map.html)
 
 
 # 소상공인 정책자금 2026 총정리 — 자금별 한도·금리·자격
@@ -149,6 +149,6 @@
 
 · 금리 구조: 기준금리(분기별 변동) + 가산금리 — 원문 표기 그대로
 
-**같이 읽기:** [직접대출 vs 보증부대출 — 창구 선택 가이드](https://rlaehddnr890425-star.github.io/1p/posts/jeoldae-vs-bojeung.html) · [9월 일반경영안정자금 접수 개시 정리](https://rlaehddnr890425-star.github.io/1p/posts/2026-09-janjeongjaegum.html) · [내 상황 자격 진단 (7문항)](https://rlaehddnr890425-star.github.io/1p/posts/eligibility-check.html)
+**같이 읽기:** [직접대출 vs 보증부대출 — 창구 선택 가이드](https://jaegeum.hub77a.com/posts/jeoldae-vs-bojeung.html) · [9월 일반경영안정자금 접수 개시 정리](https://jaegeum.hub77a.com/posts/2026-09-janjeongjaegum.html) · [내 상황 자격 진단 (7문항)](https://jaegeum.hub77a.com/posts/eligibility-check.html)
 
 이 페이지의 정보는 2026년 9월 16일 소진공 공식 페이지 기준이며, 분기 금리 고시·예산 소진·공고 개정으로 수시로 바뀝니다. 실제 신청 요건·한도·금리는 반드시 신청 시점의 공식 공고문에서 재확인하세요. 본 사이트는 정부기관과 무관한 민간 정보 서비스입니다. 수치·제도 정정은 **lead.n.uk@gmail.com**으로 보내주세요.
