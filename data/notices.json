@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25 07:40",
+ "updated_at": "2026-09-26 07:40",
  "funds": [
   {
    "id": "yongji-2026q4-cheongnyeon",
@@ -50,6 +50,36 @@
    "manual": true
   },
   {
+   "id": "R26BK01736486000",
+   "title": "2026년 소상공인 안심벨 제조구매계약",
+   "category": "조달입찰",
+   "channel": "서울특별시",
+   "who": "공고 요강 참조",
+   "amount": "180000000",
+   "rate": "해당없음",
+   "term": "마감 2026-09-29",
+   "method": "나라장터 전자입찰",
+   "status": "접수중",
+   "verified_at": "2026-09-26 07:40",
+   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01736486",
+   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01736486"
+  },
+  {
+   "id": "R26BK01736231000",
+   "title": "2026 벤처기업 주간 행사",
+   "category": "조달입찰",
+   "channel": "중소벤처기업부",
+   "who": "공고 요강 참조",
+   "amount": "54994500",
+   "rate": "해당없음",
+   "term": "마감 2026-10-01",
+   "method": "나라장터 전자입찰",
+   "status": "접수중",
+   "verified_at": "2026-09-26 07:40",
+   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01736231",
+   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01736231"
+  },
+  {
    "id": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1",
    "title": "2027년 초격차 스타트업 프로젝트 기술사업화 및 투자유치 주관기관 모집공고",
    "category": "정부지원사업",
@@ -60,7 +90,7 @@
    "term": "공고 참조",
    "method": "사업별 신청처",
    "status": "접수중",
-   "verified_at": "2026-09-25 07:40",
+   "verified_at": "2026-09-26 07:40",
    "source": "수집 원문: https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256",
    "apply": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256"
   }
