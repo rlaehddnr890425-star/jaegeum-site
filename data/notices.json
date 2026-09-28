@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28 07:40",
+ "updated_at": "2026-09-29 07:40",
  "funds": [
   {
    "id": "yongji-2026q4-cheongnyeon",
@@ -50,19 +50,19 @@
    "manual": true
   },
   {
-   "id": "R26BK01737946000",
-   "title": "2027학년도 전북기계공업고등학교 신입생 교복 학교주관구매 입찰공고",
+   "id": "R26BK01740541000",
+   "title": "2026 대구 곳곳, 골목마다 축제 운영 용역(긴급)",
    "category": "조달입찰",
-   "channel": "중소벤처기업부 전북기계공업고등학교",
+   "channel": "재단법인 대구전통시장진흥재단",
    "who": "공고 요강 참조",
-   "amount": "378900",
+   "amount": "433550000",
    "rate": "해당없음",
-   "term": "마감 2026-10-02",
+   "term": "마감 2026-10-07",
    "method": "나라장터 전자입찰",
    "status": "접수중",
-   "verified_at": "2026-09-28 07:40",
-   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01737946",
-   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01737946"
+   "verified_at": "2026-09-29 07:40",
+   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01740541",
+   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01740541"
   },
   {
    "id": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1",
@@ -75,7 +75,7 @@
    "term": "공고 참조",
    "method": "사업별 신청처",
    "status": "접수중",
-   "verified_at": "2026-09-28 07:40",
+   "verified_at": "2026-09-29 07:40",
    "source": "수집 원문: https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256",
    "apply": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256"
   }
