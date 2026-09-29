@@ -87,6 +87,17 @@ code{background:#f1efe9;border-radius:4px;padding:1px 5px;font-size:12.5px}
 .tool b{display:block;font-size:15.5px;margin-bottom:6px;color:var(--accent)}
 .tool span{font-size:13.5px;color:var(--sub)}
 .tool.soon{opacity:.55;border-style:dashed}
+/* 서류 체크리스트 (2026-09-27) */
+.ck-toolbar{display:flex;gap:10px;align-items:center;margin:14px 0;flex-wrap:wrap}
+.btn.sm{padding:6px 14px;font-size:13.5px}
+.ck-toolbar .dim.small{font-size:12.5px;color:var(--sub)}
+.docbox{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:0 0 16px}
+.docbox h3{font-size:16px;margin:0 0 8px;color:var(--ink)}
+.docbox .doc-src{font-size:13.5px;color:var(--sub);margin:0 0 10px}
+.docbox .doc-src a{color:var(--accent)}
+.ck{display:flex;gap:8px;align-items:flex-start;font-size:14.5px;margin:7px 0;cursor:pointer}
+.ck input{margin-top:3px;width:15px;height:15px;accent-color:var(--accent)}
+@media print{header,nav,.ck-toolbar,footer{display:none}body{background:#fff}.docbox{border:none;padding:4px 0}}
 .principles ul{margin:12px 0 20px;padding-left:20px;font-size:14.5px}
 .postlist{margin:12px 0;padding-left:20px}.postlist li{margin:8px 0;font-size:15px}
 @media(max-width:760px){.hero h1{font-size:24px}}
