@@ -192,5 +192,4 @@ footer a:hover{text-decoration:underline}
 /* ── 카드 회귀 여파 수리 (2026-10-04 사용자 지적): 리스트 안에서 img가 block으로 풀폭 확대 결함 차단 + 최근 3장 전용 소 그리드 ── */
 .postlist .pcard{display:block;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff;margin:14px 0}
 .postlist .pcard img{display:none}
-.postgrid-sm{grid-template-columns:repeat(auto-fill,minmax(340px,1fr))}
-.postgrid-sm .pcard-b b{font-size:16.5px}
+/* postgrid-sm 퇴역(2026-10-04 사용자 지시): 전 카드 단일 그리드 동일 크기 */
