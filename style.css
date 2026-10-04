@@ -190,6 +190,11 @@ footer a{color:var(--accent);text-decoration:none}
 footer a:hover{text-decoration:underline}
 
 /* ── 카드 회귀 여파 수리 (2026-10-04 사용자 지적): 리스트 안에서 img가 block으로 풀폭 확대 결함 차단 + 최근 3장 전용 소 그리드 ── */
-.postlist .pcard{display:block;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff;margin:14px 0}
-.postlist .pcard img{display:none}
-/* postgrid-sm 퇴역(2026-10-04 사용자 지시): 전 카드 단일 그리드 동일 크기 */
+/* 카드뉴스 통일 (2026-10-04 사용자 지시): 전 카드 단일 postgrid 동일 크기.
+   카드 크기에 영향을 주는 예외 셀렉터(.postlist .pcard, .postgrid-sm) 전면 폐기 —
+   어떤 카드도 .pcard 구조 하나만 쓴다. 새 글 카드는 postgrid 첫 줄(최신순). */
+.postgrid .pcard-b p{display:none}
+.postgrid{grid-auto-rows:1fr}
+.postgrid .pcard{display:flex;flex-direction:column}
+.postgrid .pcard>a{display:flex;flex-direction:column;flex:1}
+.postgrid .pcard-b{flex:1}
