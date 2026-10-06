@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 07:40",
+ "updated_at": "2026-10-07 07:40",
  "funds": [
   {
    "id": "yongji-2026q4-cheongnyeon",
@@ -50,6 +50,36 @@
    "manual": true
   },
   {
+   "id": "R26BK01747693000",
+   "title": "2026년도 소상공인 생활문화 혁신지원 사업 주관기관 회계정산 용역",
+   "category": "조달입찰",
+   "channel": "(사)창조경제혁신센터협의회",
+   "who": "공고 요강 참조",
+   "amount": "30000000",
+   "rate": "해당없음",
+   "term": "마감 2026-10-13",
+   "method": "나라장터 전자입찰",
+   "status": "접수중",
+   "verified_at": "2026-10-07 07:40",
+   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01747693",
+   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01747693"
+  },
+  {
+   "id": "R26BK01745927000",
+   "title": "2026년 1357콜센터 상담사 직무 스트레스 관리 프로그램",
+   "category": "조달입찰",
+   "channel": "중소벤처기업부",
+   "who": "공고 요강 참조",
+   "amount": "35000000",
+   "rate": "해당없음",
+   "term": "마감 2026-10-13",
+   "method": "나라장터 전자입찰",
+   "status": "접수중",
+   "verified_at": "2026-10-07 07:40",
+   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01745927",
+   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01745927"
+  },
+  {
    "id": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1",
    "title": "2027년 초격차 스타트업 프로젝트 기술사업화 및 투자유치 주관기관 모집공고",
    "category": "정부지원사업",
@@ -60,7 +90,7 @@
    "term": "공고 참조",
    "method": "사업별 신청처",
    "status": "접수중",
-   "verified_at": "2026-10-06 07:40",
+   "verified_at": "2026-10-07 07:40",
    "source": "수집 원문: https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256",
    "apply": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256"
   }
