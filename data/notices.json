@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08 07:40",
+ "updated_at": "2026-10-09 07:40",
  "funds": [
   {
    "id": "yongji-2026q4-cheongnyeon",
@@ -50,19 +50,19 @@
    "manual": true
   },
   {
-   "id": "R26BK01749986000",
-   "title": "소상공인자영업자새출발기금(주) 지원대상 채권 인수 평가,자문 용역",
+   "id": "R26BK01747919001",
+   "title": "소상공인 경영안정바우처 현장홍보 용역",
    "category": "조달입찰",
-   "channel": "한국자산관리공사",
+   "channel": "조달청 대전지방조달청",
    "who": "공고 요강 참조",
-   "amount": "6440870000",
+   "amount": "151450000",
    "rate": "해당없음",
-   "term": "마감 2026-10-12",
+   "term": "마감 2026-10-20",
    "method": "나라장터 전자입찰",
    "status": "접수중",
-   "verified_at": "2026-10-08 07:40",
-   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01749986",
-   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01749986"
+   "verified_at": "2026-10-09 07:40",
+   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01747919",
+   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01747919"
   },
   {
    "id": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1",
@@ -75,7 +75,7 @@
    "term": "공고 참조",
    "method": "사업별 신청처",
    "status": "접수중",
-   "verified_at": "2026-10-08 07:40",
+   "verified_at": "2026-10-09 07:40",
    "source": "수집 원문: https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256",
    "apply": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071256"
   }
