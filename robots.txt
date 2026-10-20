@@ -5,3 +5,5 @@ Sitemap: https://jaegeum.hub77a.com/sitemap.xml
 
 # IndexNow key (see /00000000000000000000000000000000.txt)
 IndexNow: 00000000000000000000000000000000
+
+Sitemap: https://jaegeum.hub77a.com/feed.xml
