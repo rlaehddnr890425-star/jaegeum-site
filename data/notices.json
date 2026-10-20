@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19 07:40",
+ "updated_at": "2026-10-21 07:40",
  "funds": [
   {
    "id": "yongji-2026q4-cheongnyeon",
@@ -50,21 +50,6 @@
    "manual": true
   },
   {
-   "id": "R26BK01764248000",
-   "title": "평화시장 닭똥집명물거리 축제&네트워크 운영 대행 용역(긴급)",
-   "category": "조달입찰",
-   "channel": "재단법인 대구전통시장진흥재단",
-   "who": "공고 요강 참조",
-   "amount": "66000000",
-   "rate": "해당없음",
-   "term": "마감 2026-10-23",
-   "method": "나라장터 전자입찰",
-   "status": "접수중",
-   "verified_at": "2026-10-19 07:40",
-   "source": "수집 원문: https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01764248",
-   "apply": "https://www.g2b.go.kr/inv_bid/notice/PtlInvBidNoticeInfo.do?bidNo=R26BK01764248"
-  },
-  {
    "id": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1",
    "title": "2026년도 공급망안정화 선도사업자 제2차 선정계획 공고",
    "category": "정부지원사업",
@@ -75,7 +60,7 @@
    "term": "마감 2026-11-16",
    "method": "사업별 신청처",
    "status": "접수중",
-   "verified_at": "2026-10-19 07:40",
+   "verified_at": "2026-10-21 07:40",
    "source": "수집 원문: https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071793",
    "apply": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071793"
   }
