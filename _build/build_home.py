@@ -65,6 +65,11 @@ def main():
                 .replace('{{N_FUNDS}}', str(len(FUNDS['funds']))))
     if '{{' in html:
         print('BUILD FAIL: 미대체 템플릿 토큰 잔존'); raise SystemExit(1)
+    # 안전망(2026-10-20): tpl 재생성이 '더 찾아보기' 전 편 링크를 지우지 않게 멱등 보장
+    from home_more_articles import ensure_more_articles
+    html, added = ensure_more_articles(html, str(ROOT))
+    if added:
+        print('more-articles 재연결:', added, '편')
     (ROOT / 'index.html').write_text(html)
     print('index.html built:', len(html), 'chars,', len(NOTICES['funds']), 'cards,', len(FUNDS['funds']), 'funds')
 
